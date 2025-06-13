@@ -1,0 +1,1 @@
+# wp-shopify-store
